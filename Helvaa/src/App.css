@@ -1,0 +1,54 @@
+.imgclass {
+  height: 950px;
+  width: 950px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+h1 {
+  text-align: center;
+}
+
+.ilet {
+  text-align: center;
+}
+.imgclass2 {
+  height: 420px;
+  width: 420px;
+  position: relative;
+  margin-left: 50px;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+.display {
+  display: inline-block;
+}
+
+.renk {
+  background-color: #e6ddee;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  text-align: end;
+}
+.yaz {
+  position: relative;
+}
+
+.dark {
+  background-color: #000;
+  color: #fff;
+}
+
+.light {
+  background-color: #e6ddee;
+}
